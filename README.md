@@ -11,3 +11,9 @@ A C++ application designed to manage student donors and recipients using object-
 ## Technologies
 - C++
 - OOP (Inheritance, Classes)
+
+## Challenges & Learning
+
+- Designed class relationships between donors and recipients using inheritance
+- Managed user input and validation to prevent invalid data entry
+- Implemented file-based storage to persist data between program runs
